@@ -1,2 +1,2 @@
 # faceAlter
-Real time face changer
+Real time facial expression recognition and emoji maker
